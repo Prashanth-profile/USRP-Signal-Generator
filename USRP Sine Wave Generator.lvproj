@@ -52,6 +52,9 @@
 			<Item Name="niusrp2.dll" Type="Document" URL="niusrp2.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="SIne Wave Generator.vi" Type="VI" URL="../SIne Wave Generator.vi"/>
+			<Item Name="Tx Bool flag set false.vi" Type="VI" URL="../Tx Bool flag set false.vi"/>
+			<Item Name="Tx Bool flag set true.vi" Type="VI" URL="../Tx Bool flag set true.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
