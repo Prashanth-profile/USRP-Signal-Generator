@@ -10,7 +10,6 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Queue_test.vi" Type="VI" URL="../../Queue_test.vi"/>
 		<Item Name="sinewave_generator_simulation.vi" Type="VI" URL="../sinewave_generator_simulation.vi"/>
 		<Item Name="SinewaveSiggen_USRPRx.vi" Type="VI" URL="../SinewaveSiggen_USRPRx.vi"/>
 		<Item Name="system stop.vi" Type="VI" URL="../system stop.vi"/>
