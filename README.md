@@ -1,7 +1,7 @@
 Citation
 
 	@misc{cr_gen,
-	    author = {K. H. Sheshagiri, {Prashanth} and Juan A. {Cabrera} and Frank H. P. {Fitzek}},
+	    author = {K. H. Sheshagiri, {Prashanth}},
 	    title = {{{USRP-Signal-Generator: Common Randomness generation using Ettus N210 USRP}}},
 	    year = {2024},
 	    publisher = {GitHub},
