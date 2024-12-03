@@ -10,9 +10,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="chirpgeneration_notcompleted.vi" Type="VI" URL="../chirpgeneration_notcompleted.vi"/>
-		<Item Name="SinewaveSiggen_USRPRx.vi" Type="VI" URL="../SinewaveSiggen_USRPRx.vi"/>
-		<Item Name="SinewaveSiggen_USRPTx.vi" Type="VI" URL="../SinewaveSiggen_USRPTx.vi"/>
+		<Item Name="filtering_and_quant_demoinfocom.vi" Type="VI" URL="../filtering_and_quant_demoinfocom.vi"/>
+		<Item Name="USRP_singlecarrierTDMUSRP1_demoinfocom.vi" Type="VI" URL="../USRP_singlecarrierTDMUSRP1_demoinfocom.vi"/>
+		<Item Name="USRP_singlecarrierTDMUSRP2_demoinfocom.vi" Type="VI" URL="../USRP_singlecarrierTDMUSRP2_demoinfocom.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="niUSRP Abort.vi" Type="VI" URL="/&lt;instrlib&gt;/niUSRP/niUSRP Abort.vi"/>
@@ -40,12 +40,19 @@
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
+				<Item Name="NI_AALPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALPro.lvlib"/>
+				<Item Name="NI_Gmath.lvlib" Type="Library" URL="/&lt;vilib&gt;/gmath/NI_Gmath.lvlib"/>
 				<Item Name="NI_MABase.lvlib" Type="Library" URL="/&lt;vilib&gt;/measure/NI_MABase.lvlib"/>
+				<Item Name="NI_MAPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/measure/NI_MAPro.lvlib"/>
+				<Item Name="niAMT.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/Modulation/niAMT.lvlib"/>
 			</Item>
+			<Item Name="error_detection_demoinfocom.vi" Type="VI" URL="../error_detection_demoinfocom.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="niusrp2.dll" Type="Document" URL="niusrp2.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="SIne Wave Generator_demoinfocom.vi" Type="VI" URL="../SIne Wave Generator_demoinfocom.vi"/>
+			<Item Name="system stop_demoinfocom.vi" Type="VI" URL="../system stop_demoinfocom.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
