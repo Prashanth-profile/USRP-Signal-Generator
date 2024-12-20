@@ -19,9 +19,10 @@ If you use the code for other publications, please cite the authors:
 Database
 
 	@data{tn1p-p947-24,
-	doi = {10.21227/tn1p-p947},
-	url = {https://dx.doi.org/10.21227/tn1p-p947},
-	author = {H. Sheshagiri, Prashanth K. and Reisslein, Martin and Alberto Cabrera, Juan and P. Fitzek, Frank H.},
-	publisher = {IEEE Dataport},
-	title = {Raw channel metrics from Ettus N210 USRP for common randomness generation },
-	year = {2024} }
+		doi = {10.21227/tn1p-p947},
+		url = {https://dx.doi.org/10.21227/tn1p-p947},
+		author = {H. Sheshagiri, Prashanth K. and Reisslein, Martin and Alberto Cabrera, Juan and P. Fitzek, Frank H.},
+		publisher = {IEEE Dataport},
+		title = {Raw channel metrics from Ettus N210 USRP for common randomness generation },
+		year = {2024} 
+  	}
