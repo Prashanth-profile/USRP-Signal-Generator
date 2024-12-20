@@ -1,9 +1,11 @@
+# USRP generic radio code for observing channel reciprocity
+
 Open three files in /ThisPC--> Documents/LabViewProjects/USRP CR LabView demo/:
 1. USRP_singlecarrierTDMUSRP1_demoinfocom.vi
 2. USRP_singlecarrierTDMUSRP2_demoinfocom.vi
 3. system stop_demoinfocom
 
-Citation
+## Citation
 
 If you use the code for other publications, please cite the authors:
 
