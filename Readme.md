@@ -4,6 +4,7 @@ Open three files in /ThisPC--> Documents/LabViewProjects/USRP CR LabView demo/:
 3. system stop_demoinfocom
 
 Citation
+
 If you use the code for other publications, please cite the authors:
 
 	@misc{cr_gen,
