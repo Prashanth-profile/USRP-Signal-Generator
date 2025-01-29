@@ -6,10 +6,13 @@ Open three files in /ThisPC--> Documents/LabViewProjects/USRP CR LabView demo/:
 3. system stop_demoinfocom
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ## Citation
 
 If you use the code for other publications, please cite the authors:
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 Use the stop button in syste stop_demoinfocom to stop the program.
 
@@ -21,6 +24,9 @@ If you use the code for other publications, please cite the authors:
 >>>>>>> e15b9f1d15852d1416302ad11b2cf94af6ba8134
 
 If you used our work, please cite with the following codesets
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 	@misc{cr_gen,
@@ -33,8 +39,11 @@ If you used our work, please cite with the following codesets
 	}
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Database
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 
 	@ARTICLE{10840231,
@@ -77,6 +86,9 @@ Database
 =======
 Database
 >>>>>>> e15b9f1d15852d1416302ad11b2cf94af6ba8134
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 	@data{tn1p-p947-24,
@@ -87,11 +99,17 @@ Database
 		title = {Raw channel metrics from Ettus N210 USRP for common randomness generation },
 		year = {2024} 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   	}
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 	}
 =======
   	}
 >>>>>>> e15b9f1d15852d1416302ad11b2cf94af6ba8134
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
