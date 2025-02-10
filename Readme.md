@@ -10,7 +10,7 @@ Citation
 =======
 ## Citation
 
-If you use the code for other publications, please cite the authors:
+When using this CR generation approach, please cite the following IEEE Access article, which provides the context for this approach:
 
 	@misc{cr_gen,
 	    author = {K. H. Sheshagiri, {Prashanth}},
@@ -21,10 +21,10 @@ If you use the code for other publications, please cite the authors:
 	    howpublished = {\url{https://github.com/Prashanth-profile/USRP-Signal-Generator.git}},
 	}
 
-	@ARTICLE{10840231,
-      		author={Kumar Herooru Sheshagiri, Prashanth and Reisslein, Martin and Cabrera, Juan A. and Fitzek, Frank H. P.},
+	@ARTICLE{she2025cfo,
+      	author={Kumar Herooru Sheshagiri, Prashanth and Reisslein, Martin and Cabrera, Juan A. and Fitzek, Frank H. P.},
   		journal={IEEE Access}, 
-  		title={CFO-CR: Carrier Frequency Offset Methodology for High-Rate Common Randomness Generation}, 
+  		title={{CFO-CR}: Carrier Frequency Offset Methodology for High-Rate Common Randomness Generation}, 
   		year={2025},
   		volume={13},
   		number={},
