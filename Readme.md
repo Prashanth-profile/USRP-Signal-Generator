@@ -12,15 +12,6 @@ Citation
 
 When using this CR generation approach, please cite the following IEEE Access article, which provides the context for this approach:
 
-	@misc{cr_gen,
-	    author = {K. H. Sheshagiri, {Prashanth}},
-	    title = {{{USRP-Signal-Generator: Common Randomness generation using Ettus N210 USRP}}},
-	    year = {2024},
-	    publisher = {GitHub},
-	    journal = {GitHub repository},
-	    howpublished = {\url{https://github.com/Prashanth-profile/USRP-Signal-Generator.git}},
-	}
-
 	@ARTICLE{she2025cfo,
       	author={Kumar Herooru Sheshagiri, Prashanth and Reisslein, Martin and Cabrera, Juan A. and Fitzek, Frank H. P.},
   		journal={IEEE Access}, 
@@ -33,6 +24,7 @@ When using this CR generation approach, please cite the following IEEE Access ar
   		doi={10.1109/ACCESS.2025.3529665}
 	}
 
+Additionally, you can also cite: 
 
 	@INPROCEEDINGS{10619278,
   		author={Sheshagiri, Prashanth K. H. and Cabrera, Juan A. and Fitzek, Frank H. P.},
